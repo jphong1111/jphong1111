@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">👋 Hello Prgrammers! I'm Dennis</h1>
 
 ### 🏆 Github Stats
 
