@@ -2,6 +2,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jphong1111)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jphong1111/count.svg" alt="Visitor Count" align="center" />
+</p>
 <!--
 **jphong1111/jphong1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
