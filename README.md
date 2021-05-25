@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jphong1111)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🏆 Github Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=jphong1111&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jphong1111&theme=dark" width="48%" >
+
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/jphong1111/count.svg" alt="Visitor Count" align="center" />
 </p>
