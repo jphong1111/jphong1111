@@ -12,5 +12,6 @@
 <img src="https://github.com/jphong1111/jphong1111/blob/main/github-metrics.svg" alt="Metrics" align="center" width="70%">
 </p>
   
+<p align="center"> 
 <img src="https://profile-counter.glitch.me/jphong1111/count.svg" alt="Visitor Count" align="center" />
-
+</p>
