@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: formidablae
+          user: jphong1111
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
