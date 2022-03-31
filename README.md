@@ -8,6 +8,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jphong1111&theme=highcontrast" width="48%" >
 
 <p align="center"> 
-  <img src="https://github.com/jphong1111/jphong1111/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/jphong1111/jphong1111/blob/main/github-metrics.svg" alt="Metrics" width="70%">
   <img src="https://profile-counter.glitch.me/jphong1111/count.svg" alt="Visitor Count" align="center" />
 </p>
