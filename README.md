@@ -8,5 +8,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jphong1111&theme=highcontrast" width="48%" >
 
 <p align="center"> 
+  ![Metrics](/github-metrics.svg)
   <img src="https://profile-counter.glitch.me/jphong1111/count.svg" alt="Visitor Count" align="center" />
 </p>
